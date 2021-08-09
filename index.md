@@ -2,24 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/JesusLopezGarcia98/estacionamiento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Jesús , Estudiante de 6° Cuatrimestre de Ingeniería en sistemas, utlizando las tecnologías y lenguajes tales como html, php ,mysql, javascript y para facilitarnos el trabajo de los estilos utilizamos bootstrap, El sistema actual es sobre un estacionamiento en el que el Administrador del sistema tendra un Usuaruio y una contraseña, para poder registrar vehiculos, eliminar , asi como el tiempo deseado de su estancia, un apartado de forma de pago por medio de tarjeta
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+¡¡Facil de usar e intuitivo!!
 
 **Bold** and _Italic_ and `Code` text
 
